@@ -1,0 +1,2 @@
+# IdeaSettingSync
+IDEA Setting Sync
