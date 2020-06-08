@@ -1,0 +1,21 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Angular CLI" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
+    <notification groupId="Dynamic plugin installation" />
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
+    <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
+    <notification groupId="FTP/SFTP Connectivity: Remote Host" displayType="TOOL_WINDOW" />
+    <notification groupId="http.generation.notifications" displayType="STICKY_BALLOON" />
+    <notification groupId="Indexing" />
+    <notification groupId="Key Promoter X" />
+    <notification groupId="Package requirements" />
+    <notification groupId="PHPUnit" displayType="TOOL_WINDOW" />
+    <notification groupId="Pipfile Watcher" displayType="STICKY_BALLOON" />
+    <notification groupId="Plugins AutoSwitch" />
+    <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
+    <notification groupId="Profiling" />
+    <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
+  </component>
+</application>
